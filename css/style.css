@@ -854,6 +854,9 @@ body .sectionb:hover {
     margin-top: 1rem;
     padding: 0rem 1rem;
   }
+  body .section-blanco {
+    height: 1200px;
+  }
   body .section-blanco-quees {
     height: 850px;
     width: 100%;
@@ -945,7 +948,7 @@ body .sectionb:hover {
     justify-content: center;
   }
   body .section-extra {
-    height: 2000px;
+    height: 2300px;
   }
   body .recursos {
     font-size: 1.2rem;
