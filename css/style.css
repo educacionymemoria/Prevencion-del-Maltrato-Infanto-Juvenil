@@ -821,8 +821,8 @@ body .titulos-blanco-video {
 }
 body .video-bb {
   margin: 2rem;
-  width: 55%;
-  height: 60%;
+  height: 50%;
+  aspect-ratio: 16/9;
   border-radius: 10px;
   border: 5px black solid;
   box-shadow: 10px 10px 1px #F4005C;
